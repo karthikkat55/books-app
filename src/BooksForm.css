@@ -1,0 +1,35 @@
+.App13{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+
+
+.App12{
+    background-color: gold;
+    display:block;
+    justify-content: left;
+    align-items: center;
+    height: auto;
+    border-radius: 0px;
+    margin-left: 0px;
+    width: 900px;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+
+}
+.formbox{
+    background-color: goldenrod;
+    width: 350px;
+    height: 150px;
+    border-radius: 5px;
+   justify-content: center;
+  
+    
+}
+
